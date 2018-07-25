@@ -21,3 +21,7 @@ Next worK:
 - Keep the font in the same directory as the cloud.py or change the path of `.ttf` file.
 - Run `python3 cloud.py`
 
+---------------------------------------------
+
+## Example ##
+![Example](./cloud1.png)
